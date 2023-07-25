@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: projectred521/react-fe:v0.1.0
+        image: projectred521/react-fe:v0.1.1
         resources:
           limits:
             memory: "256Mi"
