@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: backend-service
-  namespace: webapp-flask
+  namespace: webapp-flask-be
 spec:
   # type: LoadBalancer
   selector:
